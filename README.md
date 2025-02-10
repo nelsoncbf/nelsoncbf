@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, my name is Nelson Fonseca! 👋
+<!-- # Hi there, my name is Nelson Fonseca! 👋 -->
 
 ## About me
 - 🔭 I’m currently working on [Mambo WiFi](https://www.mambowifi.com).
