@@ -23,19 +23,15 @@
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsoncbf&theme=dark&hide_border=false"/>
 </div>
-
-
 ## 🏆 GitHub Trophies
 <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=nelsoncbf&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </div>
-
 ### ✍️ Random Dev Quote
 <div align="center">
   <img height="280em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
-
 ### 🔝 Top Contributed Repo
 <div align="center">
   <img height="280em" src="https://github-contributor-stats.vercel.app/api?username=nelsoncbf&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
