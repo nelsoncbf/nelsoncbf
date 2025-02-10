@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on [Mambo WiFi](https://www.mambowifi.com)
-- 🌱 I’m currently learning [Análise de Dados](https://www.coursera.org/programs/data-analysis-miszq)
+- 🌱 I’m currently learning [Data Analysis](https://www.coursera.org/programs/data-analysis-miszq)
 - 👯 I’m looking to collaborate on [RoadBR](https://roadbr.com)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nelson-fonseca-b068bab0/)
 - ⚡ Github Pages: [nelsoncbf](https://nelsoncbf.github.io)
