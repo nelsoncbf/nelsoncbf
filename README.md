@@ -1,5 +1,4 @@
-## Hi there 👋
-
+##  Hi there, my name is Nelson Fonseca! 👋
 <!--
 **nelsoncbf/nelsoncbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +15,13 @@ Here are some ideas to get you started:
 -->
 <!-- # Hi there, my name is Nelson Fonseca! 👋 -->
 
-## About me
+<!-- ## About me -->
 - 🔭 I’m currently working on [Mambo WiFi](https://www.mambowifi.com).
 - 🌱 I’m currently learning [Análise de Dados](https://www.coursera.org/programs/data-analysis-miszq).
 - 👯 I’m looking to collaborate on [RoadBR](https://roadbr.com).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nelson-fonseca-b068bab0/).
 - ⚡ Github Pages: [nelsoncbf](https://nelsoncbf.github.io).
 
----
 <!--
 ## Habilidades e Tecnologias
 ### Linguagens de Programação
@@ -56,7 +54,6 @@ Here are some ideas to get you started:
 ## Contributions Recentes
 ![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=nelsoncbf&theme=github)
 
----
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=seu-usuario&color=blue)
 
