@@ -50,10 +50,11 @@ Here are some ideas to get you started:
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsoncbf&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelsoncbf&theme=radical)
 ![nelsoncbf's Stats](https://github-readme-stats.vercel.app/api?username=nelsoncbf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<!--
 ![nelsoncbf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsoncbf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ## Contributions Recentes
 ![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=nelsoncbf&theme=github)
-
+-->
 ---
 
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=seu-usuario&color=blue)
