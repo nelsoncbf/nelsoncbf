@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on [RoadBR](https://roadbr.com)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nelson-fonseca-b068bab0/)
 - ⚡ Github Pages: [nelsoncbf](https://nelsoncbf.github.io)
+- ⚡ Pypi: [Pypi](https://pypi.org/user/ioannova)
 
 
 ## 🌐 Socials:
