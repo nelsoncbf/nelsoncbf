@@ -156,6 +156,19 @@ nelson = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson%20Fonseca-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nelson-fonseca-b068bab0)
 [![PyPI](https://img.shields.io/badge/PyPI-ioannova-%230075A8?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/ioannova)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nlsf)
+
+</div>
+
+---
+
+## 🦊 My Firefox Extensions
+
+<div align="center">
+
+| Extension | Description |
+|---|---|
+| [🔢 Gerador de CPF](https://github.com/nelsoncbf/firefox-entension-gerador-cpf) | Generates valid CPFs for testing purposes — with history, pin and copy support |
 
 </div>
 
