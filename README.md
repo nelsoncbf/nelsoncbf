@@ -124,7 +124,19 @@ nelson = {
 
 ---
 
-## 🐍 Contributions
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nelsoncbf&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=nelsoncbf&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+</div>
 
 <div align="center">
 
