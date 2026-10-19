@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN_NELSONCBF }}
+          token: ${{ secrets.METRIC_TOKEN }}
           user: nelsoncbf
           filename: assets/metrics.svg
           template: terminal
