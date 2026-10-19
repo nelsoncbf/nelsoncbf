@@ -58,7 +58,7 @@
     <rect x="546" y="296" width="20" height="14" fill="#D3D7CF"/>
   </g>
 
-  <!-- $ cat about.md -->
+  <!--  cat about.md -->
   <text xml:space="preserve" x="24" y="446" font-size="15">
     <tspan x="24"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$ cat about.md</tspan></tspan>
     <tspan x="24" dy="30"><tspan fill="#E95420" font-weight="bold">Building      : </tspan><tspan fill="#E6D9E0">Mambo WiFi — hotspot &amp; connectivity platform</tspan></tspan>
