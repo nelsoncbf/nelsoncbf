@@ -9,28 +9,7 @@
 
 ## `$ neofetch`
 
-```bash
-            .-/+oossssoo+/-.               nelson@github
-        `:+ssssssssssssssssss+:`           ─────────────────────────────
-      -+ssssssssssssssssssyyssss+-         OS      : Backend Engineer @ Mambo WiFi
-    .ossssssssssssssssssdMMMNysssso.       Host    : RoadBR · open source
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel  : Python · Go · JavaScript · PHP
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Shell   : bash · zsh
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Cloud   : AWS · GCP · Oracle · Heroku
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Backend : FastAPI · Django · Symfony
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Data    : Postgres · Mongo · Redis · Elastic
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DevOps  : Docker · Kubernetes · Nginx
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Pkg     : pypi.org/user/ioannova
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Locale  : Brazil
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   ─────────────────────────────
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    ███ ███ ███ ███ ███ ███ ███ ███
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
-```
+<div align="center"><img src="assets/neofetch.svg" alt="neofetch" width="100%"/></div>
 
 ---
 
