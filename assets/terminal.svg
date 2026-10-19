@@ -67,7 +67,7 @@
     <tspan x="24" dy="24"><tspan fill="#E95420" font-weight="bold">Exploring     : </tspan><tspan fill="#E6D9E0">Observability · RADIUS/CoA · event-driven</tspan></tspan>
   </text>
 
-  <!-- $ ./stack --list -->
+  <!-- stack -->
   <text xml:space="preserve" x="24" y="600" font-size="15">
     <tspan x="24"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$ ./stack --list</tspan></tspan>
     <tspan x="24" dy="30"><tspan fill="#729FCF" font-weight="bold">languages/   </tspan><tspan fill="#E6D9E0">Go  Python  JavaScript  PHP  Bash</tspan></tspan>
