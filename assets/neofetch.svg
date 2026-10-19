@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 460" width="840" height="460" font-family="'DejaVu Sans Mono','Cascadia Code','Courier New',monospace">
+  <rect x="0" y="0" width="840" height="460" rx="12" fill="#300A24"/>
+  <rect x="0" y="0" width="840" height="36" fill="#45122F"/>
+  <rect x="0" y="36" width="840" height="1" fill="#5A2342"/>
+  <circle cx="24" cy="18" r="6" fill="#FF5F56"/>
+  <circle cx="46" cy="18" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="18" r="6" fill="#27C93F"/>
+  <text x="420" y="22" text-anchor="middle" font-size="13" fill="#B39BAA">nelson@github: ~</text>
+
+  <text xml:space="preserve" y="66" font-size="14" fill="#E95420">
+    <tspan x="24">            .-/+oossssoo+/-.</tspan>
+    <tspan x="24" dy="18">        `:+ssssssssssssssssss+:`</tspan>
+    <tspan x="24" dy="18">      -+ssssssssssssssssssyyssss+-</tspan>
+    <tspan x="24" dy="18">    .ossssssssssssssssssdMMMNysssso.</tspan>
+    <tspan x="24" dy="18">   /ssssssssssshdmmNNmmyNMMMMhssssss/</tspan>
+    <tspan x="24" dy="18">  +ssssssssshmydMMMMMMMNddddyssssssss+</tspan>
+    <tspan x="24" dy="18"> /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/</tspan>
+    <tspan x="24" dy="18">.ssssssssdMMMNhsssssssssshNMMMdssssssss.</tspan>
+    <tspan x="24" dy="18">+sssshhhyNMMNyssssssssssssyNMMMysssssss+</tspan>
+    <tspan x="24" dy="18">ossyNMMMNyMMhsssssssssssssshmmmhssssssso</tspan>
+    <tspan x="24" dy="18">ossyNMMMNyMMhsssssssssssssshmmmhssssssso</tspan>
+    <tspan x="24" dy="18">+sssshhhyNMMNyssssssssssssyNMMMysssssss+</tspan>
+    <tspan x="24" dy="18">.ssssssssdMMMNhsssssssssshNMMMdssssssss.</tspan>
+    <tspan x="24" dy="18"> /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/</tspan>
+    <tspan x="24" dy="18">  +sssssssssdmydMMMMMMMMddddyssssssss+</tspan>
+    <tspan x="24" dy="18">   /ssssssssssshdmNNNNmyNMMMMhssssss/</tspan>
+    <tspan x="24" dy="18">    .ossssssssssssssssssdMMMNysssso.</tspan>
+    <tspan x="24" dy="18">      -+sssssssssssssssssyyyssss+-</tspan>
+    <tspan x="24" dy="18">        `:+ssssssssssssssssss+:`</tspan>
+    <tspan x="24" dy="18">            .-/+oossssoo+/-.</tspan>
+  </text>
+
+  <text xml:space="preserve" y="66" font-size="14">
+    <tspan x="392" fill="#E95420" font-weight="bold">nelson</tspan><tspan fill="#E6D9E0">@</tspan><tspan fill="#E95420" font-weight="bold">github</tspan>
+    <tspan x="392" dy="18" fill="#7A5C6E">─────────────────────────────</tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">OS      : </tspan><tspan fill="#E6D9E0">Backend Engineer @ Mambo WiFi</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Host    : </tspan><tspan fill="#E6D9E0">RoadBR · open source</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Kernel  : </tspan><tspan fill="#E6D9E0">Python · Go · JavaScript · PHP</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Shell   : </tspan><tspan fill="#E6D9E0">bash · zsh</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Cloud   : </tspan><tspan fill="#E6D9E0">AWS · GCP · Oracle · Heroku</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Backend : </tspan><tspan fill="#E6D9E0">FastAPI · Django · Symfony</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Data    : </tspan><tspan fill="#E6D9E0">Postgres · Mongo · Redis · Elastic</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">DevOps  : </tspan><tspan fill="#E6D9E0">Docker · Kubernetes · Nginx</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Pkg     : </tspan><tspan fill="#E6D9E0">pypi.org/user/ioannova</tspan></tspan>
+    <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Locale  : </tspan><tspan fill="#E6D9E0">Brazil</tspan></tspan>
+  </text>
+
+  <g>
+    <rect x="392" y="296" width="20" height="14" fill="#2E3436"/>
+    <rect x="414" y="296" width="20" height="14" fill="#CC0000"/>
+    <rect x="436" y="296" width="20" height="14" fill="#4E9A06"/>
+    <rect x="458" y="296" width="20" height="14" fill="#C4A000"/>
+    <rect x="480" y="296" width="20" height="14" fill="#3465A4"/>
+    <rect x="502" y="296" width="20" height="14" fill="#75507B"/>
+    <rect x="524" y="296" width="20" height="14" fill="#06989A"/>
+    <rect x="546" y="296" width="20" height="14" fill="#D3D7CF"/>
+  </g>
+  <g>
+    <rect x="392" y="312" width="20" height="14" fill="#555753"/>
+    <rect x="414" y="312" width="20" height="14" fill="#EF2929"/>
+    <rect x="436" y="312" width="20" height="14" fill="#8AE234"/>
+    <rect x="458" y="312" width="20" height="14" fill="#FCE94F"/>
+    <rect x="480" y="312" width="20" height="14" fill="#729FCF"/>
+    <rect x="502" y="312" width="20" height="14" fill="#AD7FA8"/>
+    <rect x="524" y="312" width="20" height="14" fill="#34E2E2"/>
+    <rect x="546" y="312" width="20" height="14" fill="#EEEEEC"/>
+  </g>
+</svg>
