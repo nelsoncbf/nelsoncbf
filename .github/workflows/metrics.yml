@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-        with: 
+        with:
           token: ${{ secrets.SNAKE_TOKEN }}
           user: nelsoncbf
           filename: assets/metrics.svg
