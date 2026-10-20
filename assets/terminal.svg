@@ -72,7 +72,7 @@
 
   <!-- focus -->
   <text x="24" y="712" font-size="14"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$ cat focus.txt</tspan></text>
-  <text x="24" y="740" font-size="14" fill="#E6D9E0">Event-driven microservices · observability-first · GenAI R&amp;D (AWS Bedrock · RAG · MCP)</text>
+  <text x="24" y="740" font-size="14" fill="#E6D9E0">Event-driven microservices · observability-first · GenAI R&amp;D (Claude · Kiro · Gemini · RAG · MCP)</text>
 
   <!-- prompt + cursor -->
   <text x="24" y="782" font-size="14"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$</tspan></text>
