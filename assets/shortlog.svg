@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 430" width="860" height="430" font-family="'DejaVu Sans Mono','Cascadia Code','Courier New',monospace">
+  <rect x="0" y="0" width="860" height="430" rx="14" fill="#300A24"/>
+  <rect x="0" y="0" width="860" height="38" fill="#45122F"/>
+  <rect x="0" y="38" width="860" height="1" fill="#5A2342"/>
+  <circle cx="26" cy="19" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="19" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="19" r="6" fill="#27C93F"/>
+  <text x="430" y="24" text-anchor="middle" font-size="13" fill="#B39BAA">nelson@github: ~/projects</text>
+
+  <text x="24" y="70" font-size="14"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~/projects</tspan><tspan fill="#E6D9E0">$ git log --oneline --all</tspan></text>
+
+  <text xml:space="preserve" x="24" y="104" font-size="13">
+    <tspan x="24"><tspan fill="#8AE234">[wifi]     </tspan><tspan fill="#E95420" font-weight="bold">mambo-web-radius-proxy    </tspan><tspan fill="#E6D9E0">RADIUS CoA/Disconnect proxy + Kibana obs.</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#8AE234">[wifi]     </tspan><tspan fill="#E95420" font-weight="bold">mambo-plat-captive-portal </tspan><tspan fill="#E6D9E0">captive portal — FastAPI · Redis · Mongo</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#8AE234">[wifi]     </tspan><tspan fill="#E95420" font-weight="bold">mambo-radcore             </tspan><tspan fill="#E6D9E0">RADIUS accounting (Python)</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#8AE234">[wifi]     </tspan><tspan fill="#E95420" font-weight="bold">mambo-radsec-proxy        </tspan><tspan fill="#E6D9E0">RadSec proxy</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#8AE234">[wifi]     </tspan><tspan fill="#E95420" font-weight="bold">mambo-passpoint           </tspan><tspan fill="#E6D9E0">Passpoint / Hotspot 2.0 — FastAPI + React</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#8AE234">[wifi]     </tspan><tspan fill="#E95420" font-weight="bold">mambo-plat-unifi          </tspan><tspan fill="#E6D9E0">UniFi integration (Go)</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#34E2E2">[survey]   </tspan><tspan fill="#E95420" font-weight="bold">wspot-mp-survey-*         </tspan><tspan fill="#E6D9E0">survey microservices — Go + Next.js</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#729FCF">[platform] </tspan><tspan fill="#E95420" font-weight="bold">wspot-plat-auth / session </tspan><tspan fill="#E6D9E0">auth · session · SAML</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#FCE94F">[events]   </tspan><tspan fill="#E95420" font-weight="bold">mambo-webhook             </tspan><tspan fill="#E6D9E0">webhook producer/consumer — Redis Queue (RQ)</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#AD7FA8">[oss]      </tspan><tspan fill="#E95420" font-weight="bold">roadbr                    </tspan><tspan fill="#E6D9E0">open-source road data (Brazil)</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#EF2929">[ai]       </tspan><tspan fill="#E95420" font-weight="bold">genai-rag · ia-opensource </tspan><tspan fill="#E6D9E0">GenAI — AWS Bedrock · RAG · MCP (R&amp;D)</tspan></tspan>
+  </text>
+
+  <text x="24" y="412" font-size="13"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~/projects</tspan><tspan fill="#E6D9E0">$ _</tspan></text>
+</svg>
