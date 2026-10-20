@@ -5,7 +5,7 @@
   <circle cx="26" cy="19" r="6" fill="#FF5F56"/>
   <circle cx="48" cy="19" r="6" fill="#FFBD2E"/>
   <circle cx="70" cy="19" r="6" fill="#27C93F"/>
-  <text x="430" y="24" text-anchor="middle" font-size="13" fill="#B39BAA">nelson@github: ~</text>
+  <text x="430" y="24" text-anchor="middle" font-size="13" fill="#B39BAA">nelsoncbf@github: ~</text>
 
   <!-- neofetch logo -->
   <text xml:space="preserve" y="66" font-size="14" fill="#E95420">
@@ -57,7 +57,7 @@
   </g>
 
   <!-- tree stack -->
-  <text x="24" y="446" font-size="14"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$ tree ~/stack</tspan></text>
+  <text x="24" y="446" font-size="14"><tspan fill="#8AE234">nelsoncbf@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$ tree ~/stack</tspan></text>
   <text xml:space="preserve" x="24" y="476" font-size="13">
     <tspan x="24" fill="#729FCF" font-weight="bold">~/stack</tspan>
     <tspan x="24" dy="24"><tspan fill="#7A5C6E">├── </tspan><tspan fill="#729FCF" font-weight="bold">languages/     </tspan><tspan fill="#E6D9E0">PHP · Python · Go · JavaScript · TypeScript · Bash · SQL</tspan></tspan>
@@ -71,11 +71,11 @@
   </text>
 
   <!-- focus -->
-  <text x="24" y="712" font-size="14"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$ cat focus.txt</tspan></text>
+  <text x="24" y="712" font-size="14"><tspan fill="#8AE234">nelsoncbf@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$ cat focus.txt</tspan></text>
   <text x="24" y="740" font-size="14" fill="#E6D9E0">Event-driven microservices · observability-first · GenAI R&amp;D (Claude · Kiro · Gemini · RAG · MCP)</text>
 
   <!-- prompt + cursor -->
-  <text x="24" y="782" font-size="14"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$</tspan></text>
+  <text x="24" y="782" font-size="14"><tspan fill="#8AE234">nelsoncbf@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~</tspan><tspan fill="#E6D9E0">$</tspan></text>
   <rect x="162" y="771" width="9" height="15" fill="#E6D9E0">
     <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
