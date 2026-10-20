@@ -33,7 +33,7 @@
 
   <!-- neofetch info -->
   <text xml:space="preserve" y="66" font-size="14">
-    <tspan x="392" fill="#8AE234" font-weight="bold">nelson</tspan><tspan fill="#E6D9E0">@</tspan><tspan fill="#8AE234" font-weight="bold">github</tspan>
+    <tspan x="392" fill="#8AE234" font-weight="bold">nelsoncbf</tspan><tspan fill="#E6D9E0">@</tspan><tspan fill="#8AE234" font-weight="bold">github</tspan>
     <tspan x="392" dy="18" fill="#7A5C6E">─────────────────────────────</tspan>
     <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">OS      : </tspan><tspan fill="#E6D9E0">Backend Engineer @ Mambo WiFi</tspan></tspan>
     <tspan x="392" dy="18"><tspan fill="#E95420" font-weight="bold">Host    : </tspan><tspan fill="#E6D9E0">RoadBR · open source</tspan></tspan>
