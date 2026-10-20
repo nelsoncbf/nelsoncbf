@@ -20,7 +20,7 @@
     <tspan x="24" dy="26"><tspan fill="#729FCF">[platform] </tspan><tspan fill="#E95420" font-weight="bold">wspot-plat-auth / session </tspan><tspan fill="#E6D9E0">auth · session · SAML</tspan></tspan>
     <tspan x="24" dy="26"><tspan fill="#FCE94F">[events]   </tspan><tspan fill="#E95420" font-weight="bold">mambo-webhook             </tspan><tspan fill="#E6D9E0">webhook producer/consumer — Redis Queue (RQ)</tspan></tspan>
     <tspan x="24" dy="26"><tspan fill="#AD7FA8">[oss]      </tspan><tspan fill="#E95420" font-weight="bold">roadbr                    </tspan><tspan fill="#E6D9E0">open-source road data (Brazil)</tspan></tspan>
-    <tspan x="24" dy="26"><tspan fill="#EF2929">[ai]       </tspan><tspan fill="#E95420" font-weight="bold">genai-rag · ia-opensource </tspan><tspan fill="#E6D9E0">GenAI — AWS Bedrock · RAG · MCP (R&amp;D)</tspan></tspan>
+    <tspan x="24" dy="26"><tspan fill="#EF2929">[ai]       </tspan><tspan fill="#E95420" font-weight="bold">genai-rag · ia-opensource </tspan><tspan fill="#E6D9E0">GenAI — Claude · Kiro · Gemini · RAG · MCP (R&amp;D)</tspan></tspan>
   </text>
 
   <text x="24" y="412" font-size="13"><tspan fill="#8AE234">nelson@github</tspan><tspan fill="#E6D9E0">:</tspan><tspan fill="#729FCF">~/projects</tspan><tspan fill="#E6D9E0">$ _</tspan></text>
