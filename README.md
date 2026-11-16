@@ -2,17 +2,8 @@
 
 <img src="assets/terminal.svg" alt="nelson@github" width="100%"/>
 
-</div>
-
-## `$ git shortlog -sn`
-
-<div align="center">
-
 <img src="assets/shortlog.svg" alt="git log — projects" width="100%"/>
 
-</div>
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nelsoncbf/nelsoncbf/output/github-contribution-grid-snake-dark.svg"/>
