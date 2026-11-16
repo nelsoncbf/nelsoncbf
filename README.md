@@ -26,6 +26,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson%20Fonseca-E95420?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=300A24)](https://www.linkedin.com/in/nelson-fonseca-b068bab0)
 [![Mambo WiFi](https://img.shields.io/badge/Mambo%20WiFi-Company-300A24?style=for-the-badge&logo=linkedin&logoColor=E95420&labelColor=E95420)](https://www.linkedin.com/company/18525256)
-[![PyPI](https://img.shields.io/badge/PyPI-ioannova-E95420?style=for-the-badge&logo=pypi&logoColor=white&labelColor=300A24)](https://pypi.org/user/ioannova)
 
 </div>
